@@ -11,4 +11,4 @@ Baixar imagem no docker hub
 ```
 docker pull taisso/fullcycle
 ```
->> [Link da imagem no docker hub](https://hub.docker.com/r/taisso/fullcycle)
+> [Link da imagem no docker hub](https://hub.docker.com/r/taisso/fullcycle)
